@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyDz3.1</string>
+
+    <string name="walcome">Добро пожаловать!</string>
+    <string name="registr">Выполните вход или зарегистрируйтесь!</string>
+    <string name="add">Поменять</string>
 </resources>
